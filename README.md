@@ -5,8 +5,8 @@
 - 🌱 I’m currently learning - Machine learning.
 - 
 - 📫 How to reach me?
-  Linkedin: https://www.linkedin.com/in/fbasoco/
-  Facebook: https://www.facebook.com/fbasoco/
+   Linkedin: https://www.linkedin.com/in/fbasoco/
+   Facebook: https://www.facebook.com/fbasoco/
 
 <!---
 fbasoco/fbasoco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
